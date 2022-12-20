@@ -22,8 +22,8 @@ breadcrumbs:
 cookie_consent_form:
   enabled: false
 country:
-  name: Australia
-  adjective: Australian
+  name: Ethiopia
+  adjective: Ethiopian
 create_goals:
   previous_next_links: false
   goals: []
@@ -76,22 +76,22 @@ frontpage_cards:
     button_label: ''
     button_link: ''
     rule_color: ''
-  - title: Lorem ipsum
-    content: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis
-      cursus est sed dapibus.
-    include: ''
-    button_label: Read more
-    button_link: 'https://example.com'
-    rule_color: ''
-  - title: Nam vestibulum
-    content: |
-      Nam vestibulum, purus quis porttitor imperdiet, nisl sem mollis nisl, a
-      interdum risus enim vitae tortor. Donec feugiat accumsan rutrum.
-    include: ''
-    button_label: Read more
-    button_link: 'https://example.com'
-    rule_color: ''
+  # - title: Lorem ipsum
+  #   content: |
+  #     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis
+  #     cursus est sed dapibus.
+  #   include: ''
+  #   button_label: Read more
+  #   button_link: 'https://example.com'
+  #   rule_color: ''
+  # - title: Nam vestibulum
+  #   content: |
+  #     Nam vestibulum, purus quis porttitor imperdiet, nisl sem mollis nisl, a
+  #     interdum risus enim vitae tortor. Donec feugiat accumsan rutrum.
+  #   include: ''
+  #   button_label: Read more
+  #   button_link: 'https://example.com'
+  #   rule_color: ''
 frontpage_goals_grid:
   title: frontpage.heading_short
   description: frontpage.instructions_short
