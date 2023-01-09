@@ -71,6 +71,7 @@ inputs:
   - class: InputSdmxMeta
     meta_suffix: __GLOBAL
 
+
 # Translations
 # ------------
 # The allows control over the imported translations. This can be omitted if you
