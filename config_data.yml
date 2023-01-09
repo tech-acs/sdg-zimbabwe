@@ -6,7 +6,7 @@
 # The following should be changed according to the hosting environment. In the most
 # common environment, Github Pages, you would need to set this according to the name
 # of this repository, after a preceding slash. Eg: /my-repository-name
-docs_baseurl: /sdg-ethiopia
+docs_baseurl: /sdg-kenya
 
 # Languages
 # ---------
@@ -67,7 +67,7 @@ src_dir: ''
 
 inputs:
   - class: InputSdmxMl_UnitedNationsApi
-    reference_area: 231
+    reference_area: 716
   - class: InputSdmxMeta
     meta_suffix: __GLOBAL
 
