@@ -1,4 +1,6 @@
 install:
+	pip freeze > requirements.lock
+	pip uninstall -r requirements.txt -y
 	pip install -r requirements.txt --upgrade
 	bundle install
 
