@@ -1,0 +1,1 @@
+{"data":{"Year":[2024],"OBS_STATUS":["A"],"UNIT_MULT":["0"],"SOURCE_DETAIL":["EMA"],"SERIES":["EN_MWT_RCYV"],"REF_AREA":[null],"UNIT_MEASURE":["PT"],"Value":[63.25]},"edges":{"From":["OBS_STATUS","UNIT_MULT"],"To":["UNIT_MULT","SOURCE_DETAIL"]}}

@@ -1,0 +1,1 @@
+{"data":{"Year":[2016],"OBS_STATUS":["A"],"UNIT_MULT":["0"],"SOURCE_DETAIL":["MOHCC"],"SERIES":["SH_STA_SCIDE"],"REF_AREA":[null],"UNIT_MEASURE":["PT"],"Value":[19.1]},"edges":{"From":["OBS_STATUS","UNIT_MULT"],"To":["UNIT_MULT","SOURCE_DETAIL"]}}

@@ -1,0 +1,1 @@
+{"data":{"Year":[2014,2033],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"SOURCE_DETAIL":["Zimstat_ICT_Survey_2014","Zimstat_ICT_Survey_2014"],"SERIES":["IT_MOB_2GNTWK","IT_MOB_2GNTWK"],"REF_AREA":[null,null],"UNIT_MEASURE":["PT","PT"],"Value":[96,96]},"edges":{"From":["OBS_STATUS","UNIT_MULT"],"To":["UNIT_MULT","SOURCE_DETAIL"]}}

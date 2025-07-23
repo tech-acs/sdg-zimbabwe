@@ -1,0 +1,1 @@
+{"data":{"Year":[2017,2024],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"SOURCE_DETAIL":["Public_Service_Commision","Public_Service_Commision"],"SERIES":["SP_PSR_OSATIS_GOV","SP_PSR_OSATIS_GOV"],"REF_AREA":[null,null],"UNIT_MEASURE":["PT","PT"],"Value":[60.0,70.81]},"edges":{"From":["OBS_STATUS","UNIT_MULT"],"To":["UNIT_MULT","SOURCE_DETAIL"]}}

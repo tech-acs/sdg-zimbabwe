@@ -1,0 +1,84 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            },
+            "title": "OBS_STATUS"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zimbabwe_Embassys_Mission_reports_UNGA",
+                "MOFAIT",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-8-1",
+  "title": "Proportion of members and voting rights of developing countries in international organizations"
+}

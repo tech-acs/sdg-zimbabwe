@@ -1,0 +1,1 @@
+{"data":{"Year":[2024],"OBS_STATUS":["A"],"UNIT_MULT":["0"],"SOURCE_DETAIL":["MPSLSW_administrative_records_National_Employment_Councils_NEC_report"],"SERIES":["SL_LBR_NTLCPL"],"REF_AREA":[null],"UNIT_MEASURE":["PT"],"Value":[55]},"edges":{"From":["OBS_STATUS","UNIT_MULT"],"To":["UNIT_MULT","SOURCE_DETAIL"]}}

@@ -1,0 +1,6 @@
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,Value
+2015,A,0,National_Health_Accounts,_L_ZW_030802,,PT,24.0
+2020,A,0,National_Health_Accounts,_L_ZW_030802,,PT,10.45
+2015,A,0,National_Health_Accounts,SH_XPD_EARN25,,PT,24.0
+2020,A,0,National_Health_Accounts,SH_XPD_EARN25,,PT,10.45
+2022,A,0,National_Health_Accounts,SH_XPD_EARN25,,PT,0.0

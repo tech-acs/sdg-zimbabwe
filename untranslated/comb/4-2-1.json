@@ -1,0 +1,1 @@
+{"data":{"Year":[2014,2019],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"SOURCE_DETAIL":["Zimstat_MICS_2019","Zimstat_MICS_2019"],"SERIES":["SE_DEV_ONTRK","SE_DEV_ONTRK"],"REF_AREA":[null,null],"AGE":["Y0T4","Y0T4"],"UNIT_MEASURE":["PT","PT"],"Value":[61.8,70.8]},"edges":{"From":["OBS_STATUS","UNIT_MULT","SOURCE_DETAIL"],"To":["UNIT_MULT","SOURCE_DETAIL","AGE"]}}

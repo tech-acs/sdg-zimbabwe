@@ -1,0 +1,1 @@
+{"data":{"Year":[2024,2025],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"SOURCE_DETAIL":["GOZ","GOZ"],"SERIES":["SG_CPA_INVPRMLDC","SG_CPA_INVPRMLDC"],"REF_AREA":[null,null],"UNIT_MEASURE":["BOOL","BOOL"],"Value":[1,1]},"edges":{"From":["OBS_STATUS","UNIT_MULT"],"To":["UNIT_MULT","SOURCE_DETAIL"]}}

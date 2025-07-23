@@ -1,0 +1,1 @@
+{"data":{"Year":[2020],"OBS_STATUS":["A"],"UNIT_MULT":["0"],"SOURCE_DETAIL":["FAO_Aquastats_survey_2020"],"SERIES":["ER_H2O_STRESS"],"REF_AREA":[null],"UNIT_MEASURE":["PT"],"Value":[35.4]},"edges":{"From":["OBS_STATUS","UNIT_MULT"],"To":["UNIT_MULT","SOURCE_DETAIL"]}}

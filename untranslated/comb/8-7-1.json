@@ -1,0 +1,1 @@
+{"data":{"Year":[2017,2019],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"SOURCE_DETAIL":["Zimstat_QLFS","Zimstat_QLFS"],"SERIES":["SL_TLF_CHLDEC","SL_TLF_CHLDEC"],"REF_AREA":[null,null],"AGE":["Y5T17","Y5T17"],"UNIT_MEASURE":["PT","PT"],"Value":[9.1,1.2]},"edges":{"From":["OBS_STATUS","UNIT_MULT","SOURCE_DETAIL"],"To":["UNIT_MULT","SOURCE_DETAIL","AGE"]}}

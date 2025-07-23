@@ -1,0 +1,1 @@
+{"data":{"Year":[2019,2019],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"SOURCE_DETAIL":["Zimstat_MICS_2019","Zimstat_MICS_2019"],"SERIES":["VC_SNS_WALN","VC_SNS_WALN"],"REF_AREA":[null,null],"SEX":["F","M"],"UNIT_MEASURE":["PT","PT"],"Value":[47.9,82.8]},"edges":{"From":["OBS_STATUS","UNIT_MULT","SOURCE_DETAIL"],"To":["UNIT_MULT","SOURCE_DETAIL","SEX"]}}

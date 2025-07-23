@@ -1,0 +1,1 @@
+{"data":{"Year":[2019],"OBS_STATUS":["A"],"UNIT_MULT":["0"],"SOURCE_DETAIL":["Zimstat_MICS_2019"],"SERIES":["VC_VAW_PHYPYV"],"REF_AREA":[null],"UNIT_MEASURE":["PT"],"Value":[64.1]},"edges":{"From":["OBS_STATUS","UNIT_MULT"],"To":["UNIT_MULT","SOURCE_DETAIL"]}}

@@ -1,0 +1,1 @@
+{"data":{"Year":[2024],"OBS_STATUS":["A"],"UNIT_MULT":["0"],"SOURCE_DETAIL":["ZDHS_2023_24"],"SERIES":["VC_VAW_NONMARR"],"REF_AREA":[null],"SEX":["F"],"AGE":["Y15T49"],"UNIT_MEASURE":["PT"],"Value":[0.1]},"edges":{"From":["OBS_STATUS","UNIT_MULT","SOURCE_DETAIL","SEX"],"To":["UNIT_MULT","SOURCE_DETAIL","SEX","AGE"]}}

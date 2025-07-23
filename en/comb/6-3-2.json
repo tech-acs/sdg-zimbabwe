@@ -1,0 +1,1 @@
+{"data":{"Year":[2023],"OBS_STATUS":["A"],"UNIT_MULT":["0"],"SOURCE_DETAIL":["EMA_2023"],"SERIES":["EN_H2O_WBAMBQ"],"REF_AREA":[null],"UNIT_MEASURE":["PT"],"Value":[75]},"edges":{"From":["OBS_STATUS","UNIT_MULT"],"To":["UNIT_MULT","SOURCE_DETAIL"]}}

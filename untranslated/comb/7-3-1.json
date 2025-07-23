@@ -1,0 +1,1 @@
+{"data":{"Year":[2023],"OBS_STATUS":["A"],"UNIT_MULT":["0"],"SOURCE_DETAIL":["ZERA_and_ZESA"],"SERIES":["EG_EGY_PRIM"],"REF_AREA":[null],"UNIT_MEASURE":["NUMBER"],"Value":[2315]},"edges":{"From":["OBS_STATUS","UNIT_MULT"],"To":["UNIT_MULT","SOURCE_DETAIL"]}}

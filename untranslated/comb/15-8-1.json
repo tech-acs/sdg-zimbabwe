@@ -1,0 +1,1 @@
+{"data":{"Year":[2022,2023,2024],"OBS_STATUS":["A","A","A"],"UNIT_MULT":["0","0","0"],"SOURCE_DETAIL":["MoETHI","MoETHI","MoETHI"],"SERIES":["ER_IAS_LEGIS","ER_IAS_LEGIS","ER_IAS_LEGIS"],"REF_AREA":[null,null,null],"UNIT_MEASURE":["BOOL","BOOL","BOOL"],"Value":[1,1,1]},"edges":{"From":["OBS_STATUS","UNIT_MULT"],"To":["UNIT_MULT","SOURCE_DETAIL"]}}
