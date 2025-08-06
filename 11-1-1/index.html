@@ -145,7 +145,7 @@ var translations = {
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
         <link res="stylesheet" href="https://cdn.datatables.net/1.11.5/css/dataTables.bootstrap5.min.css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
-        <link rel="stylesheet" href="/sdg-zimbabwe/assets/css/style.css?v=20250806122953">
+        <link rel="stylesheet" href="/sdg-zimbabwe/assets/css/style.css?v=20250806140410">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -179,33 +179,14 @@ layout-indicator
     <p class="internet-explorer-message-body">We have detected that you are using Internet Explorer to visit this website. Internet Explorer is now being phased out by Microsoft. As a result, this website no longer supports any version of Internet Explorer. Some features on this site will not work. You should use a modern browser such as Edge, Chrome, Firefox, or Safari. If you have difficulty installing or accessing a different browser, please contact your IT support team.</p>
 </div>
 <div id="disclaimer">
-    <header class="min-w-full bg-eca-blue-dark-500 flex flex-col">
-  <div class="flex-1 flex flex-col px-5 sm:px-6 md:px-20 lg:px-30 py-3 mb-auto">
-    <div class="w-full" style="translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">
-      <nav data-headlessui-state="" class="py-4">
-        <div class="mx-auto max-w-8xl">
-          <div class="flex justify-between items-center">
-            <div class="flex lg:px-0 justify-between w-full">
-              <div class="flex flex-shrink-0 items-center"><a aria-current="page" href="/data/"
-                  class="router-link-active router-link-exact-active"><img src="/data/src/assets/short-Logo-reverse.svg"
-                    alt="UNECA" class="h-14"></a></div>
-              <div class="hidden lg:ml-6 lg:flex lg:space-x-8 items-center justify-end"><a aria-current="page"
-                  href="/data/"
-                  class="router-link-active router-link-exact-active rounded-md bg-transparent ring-2 ring-gray-400 text-gray-200 font-lato font-medium tracking-wider uppercase px-5 py-1.5 text-sm whitespace-nowrap hover:bg-gray-200 hover:ring-gray-200 hover:text-eca-blue-dark-700">Home</a>
-                <div class="relative inline-block text-left ml-4"><button
-                    class="inline-flex items-center justify-center rounded-full bg-gray-200 text-eca-blue-dark-700 font-lato font-medium tracking-wider uppercase px-3 py-1 text-sm hover:bg-white hover:text-eca-blue-dark-900 transition-colors duration-200 ease-in-out"><span
-                      class="mr-1">EN</span><svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none"
-                      viewBox="0 0 24 24" stroke="currentColor">
-                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                        d="M3 5h12M9 3v2m1.048 9.5A18.022 18.022 0 016.412 9m6.088 9h7M11 21l5-10 5 10M12.751 5C11.783 10.77 8.07 15.61 3 18.129">
-                      </path>
-                    </svg></button></div>
-              </div>
-            </div>
-        </div>
-      </nav>
-    </div>
+    <header class="eca-header">
+  <div class="eca-logo-section">
+    <img src="/assets/img/uneca-logo-reverse.svg" alt="ECA Logo" class="eca-logo" />
+    <span class="eca-title">ECA</span>
   </div>
+  <nav class="eca-nav">
+    <a href="#">ECA SDGs HOME</a>
+  </nav>
 </header>
 
 <div class="container">
@@ -1455,12 +1436,12 @@ data-event-label="Change to indicator.sources tab"
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Search';</script>
 
-<script src='/sdg-zimbabwe/assets/js/sdg.js?v=20250806122953'></script>
+<script src='/sdg-zimbabwe/assets/js/sdg.js?v=20250806140410'></script>
 
 
     
     
-    <script src="/sdg-zimbabwe/assets/js/custom.js?v=20250806122953"></script><script>
+    <script src="/sdg-zimbabwe/assets/js/custom.js?v=20250806140410"></script><script>
     new indicatorInit();
     new accessibilitySwitcher();
 </script>
