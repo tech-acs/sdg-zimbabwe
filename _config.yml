@@ -40,4 +40,5 @@ exclude:
   - LICENSE
   - Makefile
 
-custom_css: - /www/assets/css/style.css
+custom_css:
+  - /www/assets/css/style.css
