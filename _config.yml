@@ -39,3 +39,5 @@ exclude:
   - README.md
   - LICENSE
   - Makefile
+
+/assets/css/style.css
