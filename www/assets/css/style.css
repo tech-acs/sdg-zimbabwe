@@ -1,8 +1,10 @@
-body {
-margin: 0;
-font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+.sdg-bar-container {
+  width: 100%;
+  overflow: hidden;
+  background-color: transparent;
+  display: block;
+  line-height: 0;
 }
-
 .eca-header {
 background-color: #176b94; /* exact match from image */
 display: flex;
