@@ -1,0 +1,66 @@
+body {
+margin: 0;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.eca-header {
+background-color: #176b94; /* exact match from image */
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding: 10px 30px;
+}
+
+.eca-logo-section {
+display: flex;
+align-items: center;
+}
+
+.eca-logo {
+height: 40px;
+margin-right: 10px;
+}
+
+.eca-title {
+color: white;
+font-size: 24px;
+font-weight: bold;
+letter-spacing: 2px;
+}
+
+.eca-nav {
+display: flex;
+gap: 12px;
+align-items: center;
+}
+
+.eca-nav a {
+text-decoration: none;
+color: white;
+border: 1px solid rgba(255, 255, 255, 0.5);
+padding: 6px 12px;
+border-radius: 6px;
+font-size: 14px;
+transition: background-color 0.2s ease;
+}
+
+.eca-nav a:hover {
+background-color: rgba(255, 255, 255, 0.1);
+}
+
+.lang-switcher {
+background-color: white;
+border: none;
+padding: 6px 12px;
+border-radius: 12px;
+font-weight: 600;
+font-size: 13px;
+display: flex;
+align-items: center;
+gap: 4px;
+cursor: pointer;
+}
+
+.lang-icon {
+font-size: 14px;
+}
