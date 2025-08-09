@@ -41,7 +41,7 @@ exclude:
   - Makefile
 
 custom_css:
-  - /assets/css/uswds.min.css
+  - /www/assets/css/uswds.min.css
 
 custom_js: 
-  - /assets/js/uswds.min.js
+  - /www/assets/js/uswds.min.js
