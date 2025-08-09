@@ -238,3 +238,9 @@ x_axis_label: ''
 observation_attributes: 
   - field: COMMENT_OBS 
     label: '' 
+
+custom_css:
+  - /assets/css/uswds.min.css
+
+custom_js: 
+  - /assets/js/uswds.min.js
