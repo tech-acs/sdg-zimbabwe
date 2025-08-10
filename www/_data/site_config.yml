@@ -240,7 +240,4 @@ observation_attributes:
     label: '' 
 
 custom_css:
-  - /assets/css/uswds.min.css
-
-custom_js: 
-  - /assets/js/uswds.min.js
+  - /assets/css/uneca.css
